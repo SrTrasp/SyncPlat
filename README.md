@@ -1,4 +1,4 @@
-# SyncPlat
+# SyncPlaT
 Tentativa de melhoramento do projeto [Quarentena and Chill](https://github.com/xSerpine/Quarentena-And-Chill).
 
 Alterações face ao [projeto anterior](https://quarentena-chill.herokuapp.com/) são:
